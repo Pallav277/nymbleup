@@ -1,0 +1,4 @@
+Total individuals tracked: 361
+Average dwell time: 7.58 seconds
+Maximum dwell time: 157.29 seconds
+Minimum dwell time: 0.00 seconds
