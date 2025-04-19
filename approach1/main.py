@@ -138,7 +138,7 @@ class DwellTimeEstimator:
         
         return total_dwell_time / len(self.tracked_objects)
     
-    def export_results(self, output_file="dwell_time_results.csv"):
+    def export_results(self, output_file="dwell_time.csv"):
         """
         Export dwell time results to a CSV file
         
