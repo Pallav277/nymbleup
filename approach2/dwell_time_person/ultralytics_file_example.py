@@ -120,8 +120,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--weights",
         type=str,
-        default="yolov8s.pt",
-        help="Path to the model weights file. Default is 'yolov8s.pt'.",
+        default="yolo11n.pt",
+        help="Path to the model weights file. Default is 'yolo11n.pt'.",
     )
     parser.add_argument(
         "--device",
